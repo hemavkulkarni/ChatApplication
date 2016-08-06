@@ -1,0 +1,7 @@
+chatapp\config\WebAppInitializer.class
+chatapp\config\WebSocketConfig.class
+chatapp\config\AppConfig.class
+chatapp\dto\Message.class
+chatapp\config\WebConfig.class
+chatapp\dto\OutputMessage.class
+chatapp\controller\ChatController.class
